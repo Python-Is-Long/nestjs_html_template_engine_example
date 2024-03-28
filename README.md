@@ -15,7 +15,7 @@ cd nestjs_html_template_engine_example
 
 Install requierements:
 ```bash
-$ npm install
+npm install
 ```
 
 Run the app:
